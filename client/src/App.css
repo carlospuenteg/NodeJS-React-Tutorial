@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  font-size: 18px;
+}
+
+.form input {
+  font-size: 15px;
+}
+
+.card {
+  width: 500px;
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.movieName {
+  margin: 0;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.movieReview {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
