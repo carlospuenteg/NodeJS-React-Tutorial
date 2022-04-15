@@ -66,7 +66,7 @@ npm un mysql2 && npm i mysql
     * [Change `server/index.js` (3)](#change-serverindexjs-3)
     * [Change `server/index.js` (4)](#change-serverindexjs-4)
     * [Change `App.js` (3)](#change-appjs-3)
-    * [Display the collected data in the client ([localhost:3000](http://localhost:300))](#display-the-collected-data-in-the-client)
+    * [Display the collected data in the client ([localhost:3000](http://localhost:300))](#user-content-display-the-collected-data-in-the-client)
   * [Update and Delete data from the database](#update-and-delete-data-from-the-database)
     * [Change `App.js` (4)](#change-appjs-4)
     * [Change `server/index.js` (5)](#change-serverindexjs-5)
